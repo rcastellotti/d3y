@@ -3,6 +3,9 @@
 
 ## run locally
 1. `watchexec -r -e py,jinja2,md,css -- python3 app.py` (`brew install watchexec` or GFY [^1])
-2. `python3 -m http.server` #in `./build` directory
+2. `python3 -m http.server` in `./build` directory
+
+## deployment
+I am sure you are able to deploy some html code without me babyfeeding you
 
 [^1]: OF COURSE it means Go FigureItOut Yourself, [BUT MAYBE](https://www.urbandictionary.com/define.php?term=GFY)
